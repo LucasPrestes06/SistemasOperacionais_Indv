@@ -151,6 +151,10 @@ Nesse período surgiram os primeiros sistemas operacionais simples.
 
 ---
 
+<img width="800" height="600" alt="Image" src="https://github.com/user-attachments/assets/27fab2aa-ec44-4950-98b6-de3e779717aa" />
+
+---
+
 ## 🕰️ Contexto Histórico 🌍
 
 Durante esse período, houve forte crescimento industrial 📈.
