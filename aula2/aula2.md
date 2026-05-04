@@ -276,6 +276,10 @@ marcada pelo uso de circuitos integrados.
 
 ---
 
+<img width="620" height="620" alt="Image" src="https://github.com/user-attachments/assets/1bb4fb2a-69e0-406a-98a0-b526817ec48f" />
+
+---
+
 ## 🕰️ Contexto Histórico 🌍
 
 Esse período foi marcado por avanços tecnológicos significativos 🚀.
