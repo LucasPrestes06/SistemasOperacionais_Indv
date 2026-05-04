@@ -10,6 +10,11 @@ Todo o funcionamento dependia diretamente da ação humana.
 
 ---
 
+<img width="700" height="578" alt="Image" src="https://github.com/user-attachments/assets/89035691-51d3-4bee-a052-c21a148d3494" />
+tradução: trocar uma válvula que estava com problema da Máquina ENIAC, significava ter que checar todas as outras 19 mil possibilidades de falha.
+
+---
+
 ## 🕰️ Contexto Histórico 🌍
 
 O desenvolvimento dos computadores ocorreu logo após a Segunda Guerra Mundial ⚔️.
