@@ -1,24 +1,28 @@
-# Atividade 04 – Estrutura e Arquitetura de Sistemas Operacionais
+# 🖥️ Atividade 04 – Estrutura e Arquitetura de Sistemas Operacionais
 
-## Reaproveitamento da Estrutura de Sistemas Operacionais
+## 🔄 Reaproveitamento da Estrutura de Sistemas Operacionais
 
-### Introdução
+### 📖 Introdução
 
 O desenvolvimento de um sistema operacional é uma tarefa complexa que exige anos de pesquisa, testes e manutenção. Por esse motivo, muitas empresas e organizações optam por reutilizar sistemas já existentes como base para novos projetos. Essa reutilização pode ocorrer por meio do aproveitamento do kernel, da arquitetura, do sistema de arquivos ou de outros componentes fundamentais.
 
 Entre as principais vantagens dessa abordagem estão:
 
-* Redução do custo de desenvolvimento;
-* Maior estabilidade e segurança;
-* Aproveitamento de tecnologias já testadas;
-* Facilidade de manutenção e atualização;
-* Disponibilidade de comunidades e documentação consolidadas.
+* 💰 Redução do custo de desenvolvimento;
+* 🛡️ Maior estabilidade e segurança;
+* ♻️ Aproveitamento de tecnologias já testadas;
+* 🔧 Facilidade de manutenção e atualização;
+* 👥 Disponibilidade de comunidades e documentação consolidadas.
 
 A seguir são apresentados cinco exemplos de sistemas operacionais que foram desenvolvidos a partir de outros sistemas ou que utilizam sua estrutura como base.
 
 ---
 
-# 1. Ubuntu
+# 🐧 1. Ubuntu
+
+<p align="center">
+  <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" width="180">
+</p>
 
 ## Sistema Base
 
@@ -32,15 +36,19 @@ O principal objetivo do Ubuntu é oferecer uma experiência mais amigável para 
 
 ## Principais Características
 
-* Interface gráfica intuitiva;
-* Atualizações regulares;
-* Grande comunidade de suporte;
-* Compatibilidade com milhares de softwares;
-* Versões específicas para servidores e desktops.
+* 🖥️ Interface gráfica intuitiva;
+* 🔄 Atualizações regulares;
+* 👥 Grande comunidade de suporte;
+* 📦 Compatibilidade com milhares de softwares;
+* 🏢 Versões específicas para servidores e desktops.
 
 ---
 
-# 2. Linux Mint
+# 🌿 2. Linux Mint
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" width="180">
+</p>
 
 ## Sistema Base
 
@@ -54,15 +62,19 @@ Embora utilize a infraestrutura do Ubuntu, o Mint oferece ambientes gráficos pr
 
 ## Principais Características
 
-* Interface semelhante ao Windows;
-* Fácil utilização para iniciantes;
-* Ferramentas próprias de gerenciamento;
-* Base sólida herdada do Ubuntu;
-* Excelente desempenho em computadores modestos.
+* 🪟 Interface semelhante ao Windows;
+* 👨‍💻 Fácil utilização para iniciantes;
+* 🧰 Ferramentas próprias de gerenciamento;
+* 🏗️ Base sólida herdada do Ubuntu;
+* ⚡ Excelente desempenho em computadores modestos.
 
 ---
 
-# 3. Raspberry Pi OS
+# 🍓 3. Raspberry Pi OS
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" width="180">
+</p>
 
 ## Sistema Base
 
@@ -76,15 +88,19 @@ O Raspberry Pi OS foi desenvolvido especificamente para os computadores Raspberr
 
 ## Principais Características
 
-* Baixo consumo de recursos;
-* Compatibilidade com hardware Raspberry Pi;
-* Grande suporte educacional;
-* Ferramentas voltadas para programação;
-* Otimizações para dispositivos embarcados.
+* ⚡ Baixo consumo de recursos;
+* 🤖 Compatibilidade com hardware Raspberry Pi;
+* 🎓 Grande suporte educacional;
+* 💻 Ferramentas voltadas para programação;
+* 🔧 Otimizações para dispositivos embarcados.
 
 ---
 
-# 4. Android
+# 🤖 4. Android
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" width="180">
+</p>
 
 ## Sistema Base
 
@@ -98,15 +114,19 @@ Apesar de compartilhar o kernel com distribuições Linux tradicionais, o Androi
 
 ## Principais Características
 
-* Interface otimizada para toque;
-* Loja de aplicativos Google Play;
-* Gerenciamento eficiente de energia;
-* Grande variedade de dispositivos compatíveis;
-* Código aberto em grande parte do projeto.
+* 📱 Interface otimizada para toque;
+* 🛒 Loja de aplicativos Google Play;
+* 🔋 Gerenciamento eficiente de energia;
+* 🌎 Grande variedade de dispositivos compatíveis;
+* 🔓 Código aberto em grande parte do projeto.
 
 ---
 
-# 5. Orbis OS (PlayStation 4)
+# 🎮 5. Orbis OS (PlayStation 4)
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/PlayStation_logo.svg" width="180">
+</p>
 
 ## Sistema Base
 
@@ -120,15 +140,15 @@ A adaptação foi realizada para atender às necessidades específicas de um con
 
 ## Principais Características
 
-* Otimização para jogos;
-* Gerenciamento avançado de recursos gráficos;
-* Alto desempenho;
-* Sistema focado em entretenimento;
-* Base sólida herdada do FreeBSD.
+* 🎮 Otimização para jogos;
+* 🖼️ Gerenciamento avançado de recursos gráficos;
+* ⚡ Alto desempenho;
+* 🎵 Sistema focado em entretenimento;
+* 🛡️ Base sólida herdada do FreeBSD.
 
 ---
 
-# Tabela Comparativa
+# 📊 Tabela Comparativa
 
 | Sistema Operacional | Sistema Base     | Tipo de Reaproveitamento                             | Principais Diferenças em Relação ao Sistema Base                                                | Finalidade Principal                |
 | ------------------- | ---------------- | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------- |
@@ -140,23 +160,23 @@ A adaptação foi realizada para atender às necessidades específicas de um con
 
 ---
 
-# Análise Comparativa
+# 🔍 Análise Comparativa
 
 Observa-se que a maioria dos sistemas apresentados reutiliza componentes de sistemas operacionais já consolidados. Essa prática permite que os desenvolvedores concentrem seus esforços em funcionalidades específicas para seus públicos-alvo.
 
 Por exemplo:
 
-* O Ubuntu simplifica a utilização do Debian para usuários comuns.
-* O Linux Mint aprimora a experiência do Ubuntu.
-* O Raspberry Pi OS adapta o Debian para dispositivos embarcados.
-* O Android aproveita a robustez do kernel Linux para dispositivos móveis.
-* O Orbis OS utiliza a estabilidade do FreeBSD para consoles de videogame.
+* 🐧 O Ubuntu simplifica a utilização do Debian para usuários comuns.
+* 🌿 O Linux Mint aprimora a experiência do Ubuntu.
+* 🍓 O Raspberry Pi OS adapta o Debian para dispositivos embarcados.
+* 🤖 O Android aproveita a robustez do kernel Linux para dispositivos móveis.
+* 🎮 O Orbis OS utiliza a estabilidade do FreeBSD para consoles de videogame.
 
 Cada um desses sistemas possui características próprias, mas todos demonstram como a reutilização de tecnologias existentes contribui para o desenvolvimento de soluções mais eficientes.
 
 ---
 
-# Conclusão
+# ✅ Conclusão
 
 O reaproveitamento da estrutura de sistemas operacionais é uma estratégia amplamente utilizada na indústria da tecnologia. Em vez de desenvolver um sistema totalmente do zero, muitas empresas utilizam sistemas consolidados como base para criar soluções específicas para diferentes tipos de dispositivos e usuários.
 
@@ -164,7 +184,7 @@ Os exemplos apresentados demonstram que essa abordagem oferece vantagens signifi
 
 ---
 
-# Referências
+# 📚 Referências
 
 1. Debian Project. Disponível em: https://www.debian.org
 
