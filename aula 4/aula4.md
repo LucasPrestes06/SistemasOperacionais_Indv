@@ -152,9 +152,7 @@ A adaptação foi realizada para atender às necessidades específicas de um con
 
 | Sistema Operacional | Sistema Base     | Tipo de Reaproveitamento                             | Principais Diferenças em Relação ao Sistema Base                                                | Finalidade Principal                |
 | ------------------- | ---------------- | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------- |
-| Ubuntu  <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" width="60">
-</p>            | Debian GNU/Linux | Kernel Linux, sistema de pacotes e arquitetura geral | Interface mais amigável, atualizações mais frequentes e foco em usuários finais                 | Desktop e servidores                |
+| Ubuntu              | Debian GNU/Linux | Kernel Linux, sistema de pacotes e arquitetura geral | Interface mais amigável, atualizações mais frequentes e foco em usuários finais                 | Desktop e servidores                |
 | Linux Mint          | Ubuntu           | Estrutura completa do Ubuntu                         | Interface personalizada, ferramentas próprias e maior foco em facilidade de uso                 | Computadores pessoais               |
 | Raspberry Pi OS     | Debian GNU/Linux | Kernel Linux e arquitetura Debian                    | Otimizações para processadores ARM e hardware Raspberry Pi                                      | Educação, IoT e sistemas embarcados |
 | Android             | Linux            | Kernel Linux                                         | Interface móvel, gerenciamento de aplicativos próprio e arquitetura específica para smartphones | Dispositivos móveis                 |
