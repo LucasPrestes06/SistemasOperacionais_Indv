@@ -3,7 +3,6 @@
 
 ![FATEC](https://img.shields.io/badge/FATEC-Itapetininga-red?style=for-the-badge)
 ![Disciplina](https://img.shields.io/badge/Disciplina-Sistemas%20Operacionais-brightgreen?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-success?style=for-the-badge)
 
 <div align="center">
 
